@@ -1,0 +1,3 @@
+[submodule "VScriptEditor"]
+	path = VScriptEditor
+	url = https://github.com/jtseo/VScriptEditor.git
